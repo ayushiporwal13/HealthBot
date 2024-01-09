@@ -1,6 +1,6 @@
 The Healthbot project is designed to revolutionize healthcare interactions through advanced conversational AI technology. Transforming healthcare communication through innovative AI technology.
 
-# Final Project - *Health Bot*
+# Final Project - [Health Bot](https://ggonza156.github.io/HealthBot/)
 
 ## Key Features
 
